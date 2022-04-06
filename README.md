@@ -1,2 +1,2 @@
-# git_practice
+# Simple Web Development Exercises
 Just practising 
